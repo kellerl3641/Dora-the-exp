@@ -5,7 +5,7 @@ I really enjoyed playing my own adventure (yes it's very nice) so I figure that 
 **Now don't lemme stop you... CLICK AND DECIDE YOUR FATE**
 
 
-Click [Here](../dora-out.md) to begin!
+Click [Here](dora-out.md) to begin!
 
 Click [Here](https://docs.google.com/drawings/d/1GsbY2ERESYtXPZe2nMIyujmkCKHkClH7KrP6kygFEUs/edit?usp=sharing) to see the diagram of this CYOA!
 
