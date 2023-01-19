@@ -3,7 +3,7 @@
 You see 2 roads right ahead of you, one in the East and one straight forward... Which one shall decide your fate?
 
 
-[Walk East](../go-parade.md)
+[Walk East](go-parade.md)
 
 
-[Walk straight](../fall-ditch.md)
+[Walk straight](fall-ditch.md)

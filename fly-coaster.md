@@ -3,4 +3,4 @@
 
 You lost... Please be more careful next time.
 
-[Restart Adventure](../dora-out.md)
+[Restart Adventure](dora-out.md)
