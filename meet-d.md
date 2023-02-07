@@ -3,5 +3,5 @@
 
 
 [Ignore Diego](find-swip.md)
-![](https://images.app.goo.gl/3WWRdCuZ5hWVV1o9A)
+![Dora](https://images.app.goo.gl/3WWRdCuZ5hWVV1o9A)
 [Be nice to Diego](go-parade.md)
