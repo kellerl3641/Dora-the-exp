@@ -5,3 +5,4 @@
 [Follow map](go-parade.md)
 
 [Continue Walking](continue-walk.md)
+
