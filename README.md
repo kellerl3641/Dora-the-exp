@@ -10,3 +10,4 @@ Click [Here](dora-adventure/go-out.md) to begin!
 Click [Here](https://docs.google.com/drawings/d/1GsbY2ERESYtXPZe2nMIyujmkCKHkClH7KrP6kygFEUs/edit?usp=sharing) to see the diagram of this CYOA!
 
 Made by Keller Lin and Omar Hussein
+
